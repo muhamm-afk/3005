@@ -1,6 +1,6 @@
 To run the python script the psycopg2 module must be downloaded first.
 
-Within my a2.py script, you may have to change the following line 7 and 8 as they are referring to my sql user account so beware of that. yo will mostlikely have a different username and password. i have omiitted the password please fill it in with your own password
+Within my a2.py script, you may have to change the following line 7 and 8 as they are referring to my sql user account so beware of that. you will mostlikely have a different username and password. I have omiitted the password please fill it in with your own password
 
 before this is done please verify that you have python downloaded using the following statements, if you do not have Python downloaded, you can download it using the link here --->https://www.python.org/downloads/
 
