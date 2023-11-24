@@ -10,7 +10,9 @@ to download thIs module, first go to you're command shell and type the following
 
 pip install psycopg2-binary
 
-once this is installed please open up the a2.py script and on command line or shell, get to the directory of a2.py
+next take the step1 file and run the query, then take the step 2 file run this query.
+
+please open up the a2.py script and on command line or shell, get to the directory of a2.py
 
 once you are at the directory, run the following command:
 
@@ -51,3 +53,7 @@ finally closes the database connection in a finally block to ensure closure even
 
 
 https://www.loom.com/share/608beb3d475944928be79a7765ddf0a6?sid=ad194223-ce20-4330-a367-c6ad7546be5a
+
+
+
+
