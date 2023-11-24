@@ -5,7 +5,7 @@ parameters = {
     'host' : 'localhost',
     'database' : 'Student',
     'user' : 'postgres',
-    'password' : 'Abdu11ah'  }
+    'password' : '*******'  }
 
 def connect():
     try:
